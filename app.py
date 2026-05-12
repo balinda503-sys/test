@@ -1,8 +1,3 @@
-streamlit
-google-generativeai
-
-.env
-__pycache__/
 
 import streamlit as st
 import google.generativeai as genai
